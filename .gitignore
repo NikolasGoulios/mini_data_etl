@@ -1,0 +1,10 @@
+# Ignore Venv
+venv/
+
+# Ignore OS/IDE garbage
+__pycache__/
+.DS_Store
+.env
+
+# Ignore logs
+*.log
